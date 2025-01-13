@@ -4,3 +4,6 @@
 
 # Ignore terraform directory
 .terraform/
+
+# Ignore terraform lock file
+.terraform.*
